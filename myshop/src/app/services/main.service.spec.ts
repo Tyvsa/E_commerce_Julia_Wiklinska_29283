@@ -14,3 +14,5 @@ describe('MainService', () => {
     expect(service).toBeTruthy();
   });
 });
+
+cart = [];
